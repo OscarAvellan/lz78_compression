@@ -4,5 +4,5 @@ LZ78 algorithms achieve compression by replacing repeated occurrences of data wi
 
 Instructions to run it from command line:
 
-$ make
+$ make \n
 $ ./lz78_compression < autoethnography.txt
